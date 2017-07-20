@@ -1,12 +1,12 @@
-package com.huypham.SetPortal;
+package com.javainuse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SetPortalApplication {
+public class BootGradleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SetPortalApplication.class, args);
+		SpringApplication.run(BootGradleApplication.class, args);
 	}
 }
